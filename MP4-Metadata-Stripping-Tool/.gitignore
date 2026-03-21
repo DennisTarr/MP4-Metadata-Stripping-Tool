@@ -1,0 +1,9 @@
+# Backup files created by the script
+*.bak
+
+# Temporary files
+._*
+.DS_Store
+
+# Memory project documentation (kept separate)
+~/.Memory/Projects/*.md
