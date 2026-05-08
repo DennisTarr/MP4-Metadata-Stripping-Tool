@@ -1,0 +1,25 @@
+# Build outputs
+bin/
+obj/
+dist/
+dist2/
+dist4/
+publish/
+publish2/
+*.exe
+*.dll
+*.pdb
+*.runtimeconfig.json
+*.deps.json
+
+# Test data
+testdata/
+
+# IDE/editor files
+*.user
+*.suo
+*.userosscache
+.vs/
+
+# Other
+Launcher.bat
